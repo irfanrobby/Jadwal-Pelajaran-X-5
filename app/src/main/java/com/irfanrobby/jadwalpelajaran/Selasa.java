@@ -24,15 +24,15 @@ public class Selasa extends Activity {
         listView = (ListView) findViewById(R.id.listView);
 
         // Defined Array values to show in ListView
-        String[] values = new String[] { "Bahasa Inggris",
-                "Bahasa Inggris",
-                "Sejarah",
-                "Sejarah",
-                "Kebaharian",
-                "Matematika",
-                "Matematika",
+        String[] values = new String[] { "Ekonomi",
                 "Ekonomi",
-                "Ekonomi"
+                "Sejarah",
+                "Sejarah",
+                "Ekonomi",
+                "Bahasa Indonesia",
+                "Bahasa Indonesia",
+                "Matematika Peminatan",
+                "Agama"
         };
 
         // Define a new Adapter

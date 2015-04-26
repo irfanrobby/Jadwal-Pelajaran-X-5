@@ -24,15 +24,15 @@ public class Rabu extends Activity {
         listView = (ListView) findViewById(R.id.listView);
 
         // Defined Array values to show in ListView
-        String[] values = new String[] { "Bahasa Jawa",
-                "Bahasa Jawa",
-                "TIK",
-                "TIK",
+        String[] values = new String[] { "Matematika",
+                "Matematika",
+                "Prakarya",
+                "Prakarya",
                 "Penjas",
                 "Penjas",
-                "PKn",
-                "Bahasa Jepang",
-                "Bahasa Jepang"
+                "Bahasa Indonesia",
+                "Bahasa Indonesia",
+                "PKn"
         };
 
         // Define a new Adapter

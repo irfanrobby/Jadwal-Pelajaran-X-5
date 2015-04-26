@@ -27,11 +27,11 @@ public class Senin extends Activity {
         String[] values = new String[] { "Fisika",
                 "Fisika",
                 "Fisika",
-                "BK",
+                "Kimia",
                 "Agama",
                 "Agama",
-                "Matematika",
-                "Matematika"
+                "Matematika Peminatan",
+                "Matematika Peminatan"
         };
 
         // Define a new Adapter

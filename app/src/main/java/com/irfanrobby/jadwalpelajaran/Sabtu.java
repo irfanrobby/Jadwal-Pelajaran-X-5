@@ -24,11 +24,13 @@ public class Sabtu extends Activity {
         listView = (ListView) findViewById(R.id.listView);
 
         // Defined Array values to show in ListView
-        String[] values = new String[] { "Kimia",
-                "Kimia",
-                "Kimia",
-                "Bahasa Indonesia",
-                "Bahasa Indonesia"
+        String[] values = new String[] { "Geografi",
+                "Kebaharian",
+                "Bahasa Jawa",
+                "Bahasa Jawa",
+                "Biologi",
+                "Biologi",
+                "Biologi"
         };
 
         // Define a new Adapter

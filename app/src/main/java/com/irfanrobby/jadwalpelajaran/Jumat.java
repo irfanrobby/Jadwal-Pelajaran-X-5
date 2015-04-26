@@ -24,11 +24,11 @@ public class Jumat extends Activity {
         listView = (ListView) findViewById(R.id.listView);
 
         // Defined Array values to show in ListView
-        String[] values = new String[] { "Bahasa Indonesia",
-                "Bahasa Indonesia",
+        String[] values = new String[] { "Bahasa Inggris",
+                "Bahasa Inggris",
+                "BK",
                 "Kesenian",
-                "Kesenian",
-                "BTQ"
+                "Kesenian"
         };
 
         // Define a new Adapter

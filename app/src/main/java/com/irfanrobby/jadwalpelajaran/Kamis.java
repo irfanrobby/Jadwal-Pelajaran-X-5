@@ -26,13 +26,13 @@ public class Kamis extends Activity {
         // Defined Array values to show in ListView
         String[] values = new String[] { "Geografi",
                 "Geografi",
+                "Matematika",
+                "Matematika",
+                "Kimia",
+                "Kimia",
                 "PKn",
-                "Biologi",
-                "Biologi",
-                "Sosiologi",
-                "Sosiologi",
-                "Bahasa Inggris",
-                "Bahasa Inggris"
+                "BTQ",
+                "Penjas"
         };
 
         // Define a new Adapter
